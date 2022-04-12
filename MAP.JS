@@ -9,7 +9,7 @@ const doubleNUm= number=> number*2;
 } */
 
 const output= numbers.map(doubleNUm);
-//map er por ja likbo oitai function er parameter hisaba kaj korba
+//map er por ja likbo  oitai function er parameter hisaba kaj korba
 const output2 = numbers.map(x=>x-2);
  
 console.log( output);
